@@ -1,0 +1,26 @@
+2024-03-04 17:36:48,867 [main] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 11368 (C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\01-SB-Logging-App\target\classes started by HP in C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\01-SB-Logging-App)
+2024-03-04 17:36:48,869 [main] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2024-03-04 17:36:49,949 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9090 (http)
+2024-03-04 17:36:49,961 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2024-03-04 17:36:49,964 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-03-04 17:36:49,964 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-04 17:36:50,023 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-03-04 17:36:50,023 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1104 ms
+2024-03-04 17:36:50,435 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2024-03-04 17:36:50,460 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9090 (http) with context path ''
+2024-03-04 17:36:50,474 [main] INFO  in.ashokit.Application                             - Started Application in 2.106 seconds (process running for 3.201)
+2024-03-04 17:55:05,694 [RMI TCP Connection(28)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-03-04 17:55:05,704 [RMI TCP Connection(28)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9090"]
+2024-03-04 17:55:31,704 [main] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 13968 (C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\01-SB-Logging-App\target\classes started by HP in C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\01-SB-Logging-App)
+2024-03-04 17:55:31,709 [main] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2024-03-04 17:55:32,999 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9090 (http)
+2024-03-04 17:55:33,013 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2024-03-04 17:55:33,016 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-03-04 17:55:33,016 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-04 17:55:33,097 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-03-04 17:55:33,097 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1252 ms
+2024-03-04 17:55:33,658 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2024-03-04 17:55:33,694 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9090 (http) with context path ''
+2024-03-04 17:55:33,709 [main] INFO  in.ashokit.Application                             - Started Application in 2.889 seconds (process running for 4.239)
+2024-03-04 18:19:39,304 [RMI TCP Connection(32)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-03-04 18:19:39,318 [RMI TCP Connection(32)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9090"]
