@@ -10,6 +10,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 int i=7;
 int j=9;
+int age=11;
 	}
 
 }
