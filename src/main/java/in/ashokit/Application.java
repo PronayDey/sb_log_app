@@ -10,7 +10,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 int i=7;
 int j=9;
-int l=11;
+int age=11;
 int k=30;		
 	}
 
