@@ -14,6 +14,8 @@ int age=11;
 int k=30;
 
 public void m1(){
+	int a=10;
+	int b=20;
 //logic
 }		
 	}
