@@ -11,7 +11,11 @@ public class Application {
 int i=7;
 int j=9;
 int age=11;
-int k=30;		
+int k=30;
+
+public void m1(){
+//logic
+}		
 	}
 
 }
